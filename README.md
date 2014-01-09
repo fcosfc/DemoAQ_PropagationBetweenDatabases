@@ -1,6 +1,5 @@
-Demo Oracle Advanced Queuing (AQ)
-Propagation of messages between different databases
-===================================================
+Demo Oracle Advanced Queuing (AQ), propagation of messages between different databases
+======================================================================================
 
 An example about propagation of Oracle AQ messages between databases
 
