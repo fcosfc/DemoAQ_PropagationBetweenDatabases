@@ -27,7 +27,7 @@ begin
   dbms_aqadm.start_queue (queue_name => 'aqdemo_queue2');
 end;
 /
--- Create a table to store de messages received.
+-- Create a table to store the messages received.
 create table aqdemo_queue2_message_t
   (received timestamp default systimestamp,
    message CLOB);
